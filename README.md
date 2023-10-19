@@ -1,9 +1,9 @@
 # 介紹
 
-ALPHA Shop III： 元件實作
+ALPHA Shop IV： 表單實作
 
 ## 圖示
-
+![image](https://github.com/owendong527/alpha_shop_4/commit/5f1a2ca8731c34f61617b6cbc8599c12237d014d)
 
 ## 執行方式
 
@@ -11,7 +11,7 @@ ALPHA Shop III： 元件實作
 
 2.將專案 clone 到本地
 
-    git clone https://github.com/owendong527/AlphaShop_3.git
+    git clone https://github.com/owendong527/AlphaShop_4.git
     
 3.安裝 npm 套件
 
